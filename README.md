@@ -24,19 +24,31 @@ Getting Started
 To use the Random Color Generator, clone the repository and open the colour_gen.html file in your web browser.
 
 Installation
+
 Clone the repository:
+
 bash
+
 Copy code
+
 git clone https://github.com/Riju01/Random-Colour-Generator.git
+
 Navigate to the project directory:
+
 bash
+
 Copy code
+
 cd Random-Colour-Generator
+
 Open colour_gen.html in your web browser.
+
 Contributing
+
 Contributions are encouraged! Feel free to submit issues or pull requests for improvements or enhancements.
 
 License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Let me know if you need any more adjustments!
