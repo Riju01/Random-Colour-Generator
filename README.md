@@ -41,7 +41,7 @@ Copy code
 
 cd Random-Colour-Generator
 
-Open colour_gen.html in your web browser.
+Open color_gen.html in your web browser.
 
 Contributing
 
